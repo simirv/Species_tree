@@ -2,8 +2,6 @@
  Species tree used in [ORTHOSCOPE](https://github.com/jun-inoue/orthoscope) and dbCNS analyses.
 
 ---
-## Species Tree Hypothesis
-
 
 <table width="200" border="0">
   <tbody>
@@ -46,9 +44,12 @@
     </tr>
   </tbody>
 </table>
+
 The newick format of the tree can be downloaded from [here](https://fish-evol.unit.oist.jp/Species_tree/examples/SpeciesTreeHypothesis.tre).
+
 The newick format of the tree can be downloaded from [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
 
+Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
 
 Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
 
