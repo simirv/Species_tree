@@ -8,43 +8,35 @@
 
 Our hypothetical species tree (newick) can be downloaded from [here](https://fish-evol.unit.oist.jp/Species_tree/examples/SpeciesTreeHypothesis.tre).
 
-
-| [Metazoa][treeA] | [Hexapoda][treeB] | [Urochordata][treeC] | [Vertebrata][treeD] | [Actinopterygii][treeE] | [Aves][treeF] | [Mammalia][treeG] | [Euarchontoglires][treeH] 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-
-[treeA]:https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Metazoa.pdf
-[treeB]:https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Hexapoda.pdf
-[treeC]:https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Urochordata.pdf
-[treeD]:https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Vertebrata.pdf
-[treeE]:https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Actinopterygii.pdf
-[treeF]:https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Aves.pdf
-[treeG]:https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Mammalia.pdf
-[treeH]:https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Euarchontoglires.pdf
-
-
-Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
-
-Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
-
-![treegraph2](images/treeGraph2.jpg)
-
 <table width="200" border="1">
   <tbody>
     <tr>
       <td><img src="images/SpeciesTree.jpg" width="422" height="273" alt=""/></td>
-      <td><table width="200" border="1">
+      <td><table width="200" border="0">
         <tbody>
           <tr>
             <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Metazoa.pdf">Metazoa</a></td>
           </tr>
           <tr>
-            <td>&nbsp;</td>
+            <td><a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Hexapoda.pdf">Hexapoda</a></td>
           </tr>
           <tr>
-            <td>&nbsp;</td>
+            <td><a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Urochordata.pdf">Urochordata</a></td>
           </tr>
           <tr>
-            <td>&nbsp;</td>
+            <td><a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Vertebrata.pdf">Vertebrata</a></td>
+          </tr>
+          <tr>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Actinopterygii.pdf">Actinopterygii</a></td>
+          </tr>
+          <tr>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Aves.pdf">Aves</a></td>
+          </tr>
+          <tr>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Mammalia.pdf">Mammalia</a></td>
+          </tr>
+          <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Euarchontoglires.pdf">Euarchontoglires</a></td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -57,6 +49,13 @@ Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info
     </tr>
   </tbody>
 </table>
+
+Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
+
+Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
+
+![treegraph2](images/treeGraph2.jpg)
+
 
 
 <br />
