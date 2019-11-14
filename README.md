@@ -4,11 +4,8 @@
 ---
 ## Species Tree Hypothesis
 
-![SpeciesTree](images/SpeciesTree.jpg)
 
-Our hypothetical species tree (newick) can be downloaded from [here](https://fish-evol.unit.oist.jp/Species_tree/examples/SpeciesTreeHypothesis.tre).
-
-<table width="200" border="1">
+<table width="200" border="0">
   <tbody>
     <tr>
       <td><img src="images/SpeciesTree.jpg" width="422" height="273" alt=""/></td>
@@ -49,6 +46,8 @@ Our hypothetical species tree (newick) can be downloaded from [here](https://fis
     </tr>
   </tbody>
 </table>
+The newick format of the tree can be downloaded from [here](https://fish-evol.unit.oist.jp/Species_tree/examples/SpeciesTreeHypothesis.tre).
+
 
 Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
 
