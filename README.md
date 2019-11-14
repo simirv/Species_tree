@@ -47,10 +47,6 @@
 
 The newick format of the tree can be downloaded from [here](https://fish-evol.unit.oist.jp/Species_tree/examples/SpeciesTreeHypothesis.tre).
 
-The newick format of the tree can be downloaded from [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
-
-Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
-
 Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
 
 Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
