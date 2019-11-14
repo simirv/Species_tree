@@ -28,36 +28,5 @@ Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info
 
 ![treegraph2](images/treeGraph2.jpg)
 
-<table width="200" border="1">
-  <tbody>
-    <tr>
-      <td><img src="images/SpeciesTree.jpg" width="422" height="273" alt=""/></td>
-      <td><table width="200" border="1">
-        <tbody>
-          <tr>
-            <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Metazoa.pdf">Metazoa</a></td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-          </tr>
-        </tbody>
-      </table></td>
-    </tr>
-  </tbody>
-</table>
-
-
 <br />
 <br />  
