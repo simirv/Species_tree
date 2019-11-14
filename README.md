@@ -1,5 +1,5 @@
-# Species_tree
- Species tree used in [ORTHOSCOPE](https://github.com/jun-inoue/orthoscope) and dbCNS analyses.
+# Species tree
+ Our species tree hypothesis used in [ORTHOSCOPE](https://github.com/jun-inoue/orthoscope) and dbCNS analyses.
 
 ---
 
