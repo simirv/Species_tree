@@ -12,10 +12,10 @@
             <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Metazoa.pdf">Metazoa</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Hexapoda.pdf">Hexapoda</a></td>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Cnidaria.pdf">Cnidaria</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Cnidaria.pdf">Cnidaria</a></td>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Hexapoda.pdf">Hexapoda</a></td>
           </tr>
           <tr>
             <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Urochordata.pdf">Urochordata</a></td>
