@@ -44,11 +44,6 @@ The newick format of the tree can be downloaded from [here](http://yurai.aori.u-
 
 Phylogenetic relationships without references follow the [NCBI Taxonomy Common Tree](https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi).
 
-Newick formats can be modifed using [TreeGraph2](http://treegraph.bioinfweb.info/).
-
-![treegraph2](images/treeGraph2.jpg)
-
-
 
 <br />
 <br />  
