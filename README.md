@@ -9,6 +9,9 @@
       <td><img src="images/SpeciesTree.jpg" width="422" height="273" alt=""/></td>
       <td><table width="200" border="0">
           <tr>
+            <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Viridiplantae.pdf">Viridiplantae</a></td>
+          </tr>
+          <tr>
             <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Metazoa.pdf">Metazoa</a></td>
           </tr>
           <tr>
@@ -21,7 +24,7 @@
             <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Urochordata.pdf">Urochordata</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Vertebrata.pdf">Vertebrata</a></td>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Vertebrata.pdf">Vertebrata</a></td> 
           </tr>
           <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Actinopterygii.pdf">Actinopterygii</a></td>
