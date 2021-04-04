@@ -24,7 +24,7 @@
             <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Urochordata.pdf">Urochordata</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Vertebrata.pdf">Vertebrata</a></td>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Vertebrata.pdf">Vertebrata</a></td> 
           </tr>
           <tr>
             <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Actinopterygii.pdf">Actinopterygii</a></td>
