@@ -9,7 +9,7 @@
       <td><img src="images/SpeciesTree.jpg" width="422" height="273" alt=""/></td>
       <td><table width="200" border="0">
           <tr>
-            <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Viridiplantae.pdf">Viridiplantae</a></td>
+            <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Viridiplantae.pdf">Viridiplantae(green plants)</a></td>
           </tr>
           <tr>
             <td><a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Metazoa.pdf">Metazoa</a></td>
