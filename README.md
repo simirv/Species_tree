@@ -18,25 +18,25 @@
             <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Cnidaria.pdf">Cnidaria</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Hexapoda.pdf">Hexapoda</a></td>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Hexapoda.pdf">Hexapoda</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Urochordata.pdf">Urochordata</a></td>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Urochordata.pdf">Urochordata</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Vertebrata.pdf">Vertebrata</a></td> 
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Vertebrata.pdf">Vertebrata</a></td> 
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Actinopterygii.pdf">Actinopterygii</a></td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Actinopterygii.pdf">Actinopterygii</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Aves.pdf">Aves</a></td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Aves.pdf">Aves</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Mammalia.pdf">Mammalia</a></td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Mammalia.pdf">Mammalia</a></td>
           </tr>
           <tr>
-            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/raw/master/images/SpeciesTree_Euarchontoglires.pdf">Euarchontoglires</a></td>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/jun-inoue/Species_tree/tree/master/images/SpeciesTree_Euarchontoglires.pdf">Euarchontoglires</a></td>
           </tr>
       </table></td>
     </tr>
